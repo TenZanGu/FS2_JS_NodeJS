@@ -1,0 +1,34 @@
+[
+    {
+        "user":"lobsang",
+        "infor":{
+            "firstname":"Lobsang",
+            "lastname":"Tenzin",
+            "email":"lobsang@gmail.com"
+        }
+    },
+    {
+        "user":"leo",
+        "infor":{
+            "firstname":"Leo",
+            "lastname":"Dinh",
+            "email":"Leo@gmail.com"
+        }
+    },
+    {
+        "user":"steve",
+        "infor":{
+            "firstname":"Steve",
+            "lastname":"Dryall",
+            "email":"Steve@gmail.com"
+        }
+    },
+    {
+        "user":"edwardo",
+        "infor":{
+            "firstname":"Edwardo",
+            "lastname":"pezzi",
+            "email":"Edwardo@gmail.com"
+        }
+    }
+]
